@@ -1,0 +1,17 @@
+{
+  "name": "yunotemplate",
+  "version": "3.1.2",
+  "description": "Tony's Discord Bot Template",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zfbx (Tony#1275)",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.1",
+    "discord-akairo": "github:discord-akairo/discord-akairo#8.0.0-beta.8",
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
