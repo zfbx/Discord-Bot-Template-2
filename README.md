@@ -1,4 +1,4 @@
-[![yuno](https://raw.githubusercontent.com/zfbx/Yuno/master/docs/yunoheader.png)](https://zfbx.github.io/Yuno/)
+[![yuno](https://raw.githubusercontent.com/zfbx/Yuno/master/docs/yunoheader.png)](https://zfbx.github.io/Discord-Bot-Template-2/)
 
  * Default Prefix: `.` or @mention
 
